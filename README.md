@@ -22,7 +22,7 @@ I don't chase guaranteed wins — I hunt impossible problems and turn them into 
 suspend fun impossible(): Magic {
     return cleanArchitecture()
         .withPerformance()
-        .solveWhatOthersCant()
+        .solvingRealProblems()
 }
 ```
 
