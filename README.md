@@ -1,5 +1,3 @@
-# kdroidFilter - Elie Gambache
-
 **Clean code. Solid architecture. Blazing performance.**
 
 I don't chase guaranteed wins — I hunt impossible problems and turn them into elegant solutions.
