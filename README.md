@@ -28,8 +28,6 @@ suspend fun impossible(): Magic {
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kdroidFilter&show_icons=true&theme=dark&hide_border=true)](https://github.com/kdroidFilter)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdroidFilter&layout=compact&theme=dark&hide_border=true)](https://github.com/kdroidFilter)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kdroidFilter&show_icons=true&theme=dark&hide_border=true)](https://github.com/kdroidFilter) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdroidFilter&layout=compact&theme=dark&hide_border=true)](https://github.com/kdroidFilter)
 
 *Currently building the next impossible thing...*
