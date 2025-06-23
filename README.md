@@ -28,6 +28,14 @@ suspend fun impossible(): Magic {
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kdroidFilter&show_icons=true&theme=dark&hide_border=true)](https://github.com/kdroidFilter) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kdroidFilter&layout=compact&theme=dark&hide_border=true)](https://github.com/kdroidFilter)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kdroidFilter&show_icons=true&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kdroidFilter&show_icons=true&theme=default&hide_border=true">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kdroidFilter&show_icons=true&theme=dark&hide_border=true">
+</picture> <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kdroidFilter&layout=compact&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kdroidFilter&layout=compact&theme=default&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdroidFilter&layout=compact&theme=dark&hide_border=true">
+</picture>
 
 *Currently building the next impossible thing...*
