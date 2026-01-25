@@ -20,3 +20,8 @@ I don't chase guaranteed wins — I hunt impossible problems and turn them into 
   <img alt="Top Languages" src="https://raw.githubusercontent.com/kdroidFilter/github-stats/master/generated/languages.svg">
 </picture>
 
+## Thoughts & Essays
+
+**The Best Desktop Framework Is Not the One You Think**  
+I question Electron, Flutter, Qt, GTK… and explain what real desktop performance means today.  
+Read on Medium → https://medium.com/@elyahou.hadass/the-best-desktop-framework-is-not-the-one-you-think-5317fe233d5d
